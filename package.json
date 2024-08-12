@@ -4,8 +4,13 @@
   "description": "Este é um repositório que traz as implementações realizadas no https://curso.dev o projeto seria um clone da plataforma https://tabnews.com.br",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
 }
