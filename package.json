@@ -1,0 +1,11 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Este é um repositório que traz as implementações realizadas no https://curso.dev o projeto seria um clone da plataforma https://tabnews.com.br",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
