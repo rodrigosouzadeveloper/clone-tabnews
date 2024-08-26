@@ -1,6 +1,6 @@
 services:
   database:
-    image: postgres:16-alpine
+    image: postgres:16.4-alpine
     env_file:
       - ../.env.development
     ports:
