@@ -20,6 +20,8 @@ async function fetchStatusPage() {
   }
 }
 
-export default {
+const orchestrator = {
   waitForAllServices,
 };
+
+export default orchestrator;
